@@ -5,7 +5,7 @@ Deploy https://t1msesh-696.github.io/LoadingScreen/
 # Экран загрузки (Loading Screen)
 
 ##demo:
-![hippo]([https://github.com/T1msesh-696/LoadingScreen/blob/main/demo/2026-04-06%2018-50-55.gif])
+![hippo](https://github.com/T1msesh-696/LoadingScreen/blob/main/demo/2026-04-06%2018-50-55.gif)
 
 Простой и современный экран загрузки, реализованный с использованием чистого стека технологий: **HTML5, CSS3 и JavaScript**.
 
