@@ -1,3 +1,5 @@
+[![Maintainability](https://qlty.sh/gh/T1msesh-696/projects/LoadingScreen/maintainability.svg)](https://qlty.sh/gh/T1msesh-696/projects/LoadingScreen)
+
 # Экран загрузки (Loading Screen)
 
 Простой и современный экран загрузки, реализованный с использованием чистого стека технологий: **HTML5, CSS3 и JavaScript**.
